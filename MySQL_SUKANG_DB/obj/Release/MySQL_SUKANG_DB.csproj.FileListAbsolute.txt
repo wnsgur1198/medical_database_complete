@@ -1,0 +1,22 @@
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\bin\Release\MySQL_SUKANG_DB.exe.config
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\bin\Release\MySQL_SUKANG_DB.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\bin\Release\MySQL_SUKANG_DB.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\bin\Release\xRemoteDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\bin\Release\xRemoteDB.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\bin\Release\xRemoteDB.dll.config
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.csprojAssemblyReference.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.csproj.CoreCompileInputs.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.csproj.CopyComplete
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\bin\Release\MySQL_SUKANG_DB.exe.config
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\bin\Release\MySQL_SUKANG_DB.exe
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\bin\Release\MySQL_SUKANG_DB.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\bin\Release\xRemoteDB.dll
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\bin\Release\xRemoteDB.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\bin\Release\xRemoteDB.dll.config
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.csprojAssemblyReference.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.csproj.CoreCompileInputs.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.csproj.CopyComplete
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.exe
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\MySQL_SUKANG_DB\obj\Release\MySQL_SUKANG_DB.pdb

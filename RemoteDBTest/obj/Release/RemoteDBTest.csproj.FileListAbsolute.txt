@@ -1,0 +1,22 @@
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\bin\Release\RemoteDBTest.exe.config
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\bin\Release\RemoteDBTest.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\bin\Release\RemoteDBTest.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\bin\Release\xRemoteDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\bin\Release\xRemoteDB.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\bin\Release\xRemoteDB.dll.config
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\obj\Release\RemoteDBTest.csprojAssemblyReference.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\obj\Release\RemoteDBTest.csproj.CoreCompileInputs.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\obj\Release\RemoteDBTest.csproj.CopyComplete
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\obj\Release\RemoteDBTest.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\RemoteDBTest\obj\Release\RemoteDBTest.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\bin\Release\RemoteDBTest.exe.config
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\bin\Release\RemoteDBTest.exe
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\bin\Release\RemoteDBTest.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\bin\Release\xRemoteDB.dll
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\bin\Release\xRemoteDB.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\bin\Release\xRemoteDB.dll.config
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\obj\Release\RemoteDBTest.csprojAssemblyReference.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\obj\Release\RemoteDBTest.csproj.CoreCompileInputs.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\obj\Release\RemoteDBTest.csproj.CopyComplete
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\obj\Release\RemoteDBTest.exe
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\RemoteDBTest\obj\Release\RemoteDBTest.pdb

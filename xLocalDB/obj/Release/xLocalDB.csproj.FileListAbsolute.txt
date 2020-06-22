@@ -1,0 +1,7 @@
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xLocalDB\bin\Release\xLocalDB.dll.config
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xLocalDB\bin\Release\xLocalDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xLocalDB\bin\Release\xLocalDB.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xLocalDB\obj\Release\xLocalDB.csprojAssemblyReference.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xLocalDB\obj\Release\xLocalDB.csproj.CoreCompileInputs.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xLocalDB\obj\Release\xLocalDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xLocalDB\obj\Release\xLocalDB.pdb

@@ -1,0 +1,20 @@
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\bin\Release\JSON_Test.exe.config
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\bin\Release\JSON_Test.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\bin\Release\JSON_Test.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\bin\Release\Newtonsoft.Json.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\bin\Release\Newtonsoft.Json.xml
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\obj\Release\JSON_Test.csprojAssemblyReference.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\obj\Release\JSON_Test.csproj.CoreCompileInputs.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\obj\Release\JSON_Test.csproj.CopyComplete
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\obj\Release\JSON_Test.exe
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\JSON_Test\obj\Release\JSON_Test.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\bin\Release\JSON_Test.exe.config
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\bin\Release\JSON_Test.exe
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\bin\Release\JSON_Test.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\bin\Release\Newtonsoft.Json.dll
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\bin\Release\Newtonsoft.Json.xml
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\obj\Release\JSON_Test.csprojAssemblyReference.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\obj\Release\JSON_Test.csproj.CoreCompileInputs.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\obj\Release\JSON_Test.csproj.CopyComplete
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\obj\Release\JSON_Test.exe
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\JSON_Test\obj\Release\JSON_Test.pdb

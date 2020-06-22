@@ -1,0 +1,14 @@
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xRemoteDB\bin\Release\xRemoteDB.dll.config
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xRemoteDB\bin\Release\xRemoteDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xRemoteDB\bin\Release\xRemoteDB.pdb
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xRemoteDB\obj\Release\xRemoteDB.csprojAssemblyReference.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xRemoteDB\obj\Release\xRemoteDB.csproj.CoreCompileInputs.cache
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xRemoteDB\obj\Release\xRemoteDB.dll
+D:\1_pjkim\Backup-0\1강의\Database\DatabaseProgs\xRemoteDB\obj\Release\xRemoteDB.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\xRemoteDB\bin\Release\xRemoteDB.dll.config
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\xRemoteDB\bin\Release\xRemoteDB.dll
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\xRemoteDB\bin\Release\xRemoteDB.pdb
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\xRemoteDB\obj\Release\xRemoteDB.csprojAssemblyReference.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\xRemoteDB\obj\Release\xRemoteDB.csproj.CoreCompileInputs.cache
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\xRemoteDB\obj\Release\xRemoteDB.dll
+C:\Users\wnsgu\OneDrive\바탕 화면\1학기\의용디비\프로그램\DatabaseProgs(json_0611)\xRemoteDB\obj\Release\xRemoteDB.pdb
